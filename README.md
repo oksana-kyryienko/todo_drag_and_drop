@@ -1,5 +1,7 @@
 # React + TypeScript + Vite
 
+[DEMO LINK](https://oksana-kyryienko.github.io/todo_drag_and_drop/)
+
 Introduction
 This React app provides a user interface for managing ToDo tasks. 
 It includes features for creating, listing, updating, and deleting tasks.
